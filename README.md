@@ -1,7 +1,3 @@
-Here’s a complete and professional **`README.md`** content for uploading your **Fraud Detection System** project to GitHub. This version is clean, developer-friendly, and clearly explains the project for anyone reviewing your code.
-
----
-
 ## 🛡️ Fraud Detection System – Real-Time AI-Based Solution
 
 ### 🚀 Overview
