@@ -1,4 +1,4 @@
-## 🛡️ Fraud Detection System – Real-Time AI-Based Solution
+<img width="1869" height="899" alt="Screenshot 2025-07-29 234302" src="https://github.com/user-attachments/assets/17812b34-bf37-4ed9-afe6-3ea8504302f6" />## 🛡️ Fraud Detection System – Real-Time AI-Based Solution
 
 ### 🚀 Overview
 
@@ -121,14 +121,12 @@ Runs at: [http://localhost:8501](http://localhost:8501)
 
 ### 📊 Sample Screenshot
 
-> *Add a screenshot of your Streamlit dashboard here*
-> You can upload with:
 
-```
-![Dashboard Screenshot](images/dashboard.png)
-```
+<img width="1908" height="912" alt="Screenshot 2025-07-29 234141" src="https://github.com/user-attachments/assets/9dfe0828-771d-46d3-ba1f-80b2439de3ad" />
+<img width="1869" height="899" alt="Screenshot 2025-07-29 234302" src="https://github.com/user-attachments/assets/9eb881ec-054b-494d-919b-a003fc204858" />
+<img width="1613" height="803" alt="Screenshot 2025-07-29 234547" src="https://github.com/user-attachments/assets/90d2e5aa-7220-49e5-95f3-5fa379cdafc9" />
 
----
+
 
 ### ✅ Use Cases
 
