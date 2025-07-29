@@ -145,19 +145,8 @@ Runs at: [http://localhost:8501](http://localhost:8501)
 * Add user authentication for analysts
 * Add feedback loop from human analysts to retrain model
 
----
-
-### 🙋‍♂️ Author
-
-**Bommu Raj**
-*College Student, AI Enthusiast, Fraud Analytics Developer*
-
----
-
 ### 📜 License
 
 This project is open-source under the **MIT License**.
 
 ---
-
-Would you like me to turn this into an actual file (`README.md`) you can copy-paste or download?
