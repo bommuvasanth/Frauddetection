@@ -1,4 +1,4 @@
-<img width="1869" height="899" alt="Screenshot 2025-07-29 234302" src="https://github.com/user-attachments/assets/17812b34-bf37-4ed9-afe6-3ea8504302f6" />## 🛡️ Fraud Detection System – Real-Time AI-Based Solution
+🛡️ Fraud Detection System – Real-Time AI-Based Solution
 
 ### 🚀 Overview
 
